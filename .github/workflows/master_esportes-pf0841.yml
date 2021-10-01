@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'esportes-pf0841'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21CD7E4C654F40619F78C705CA92F1C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F02FDD8477354B05AACB87327D6F8896 }}
           package: '*.jar'
